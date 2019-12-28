@@ -1,4 +1,4 @@
-# How-to-use-ssh-to-connect-a-computer-or-a-server-in-intranet
+# How to use ssh to connect a computer or a server in a intranet
 
  **Have you met this problem that when you wanna use ssh to connect to your new server and begin your work at home but immediately you realized that your server doesn't have a public ip address?**
 
